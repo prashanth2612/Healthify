@@ -1,2 +1,1 @@
-HEALTHIFY IS A NLP AND MACHINE LEARNING MODEL
-
+Healthify is a machine learning and nlp project
